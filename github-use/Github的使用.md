@@ -117,26 +117,22 @@
 
   
 
-  - 将修改之后的项目上传到自己github里
+  - 将修改之后的项目上传到自己github里，输入命令【 git add .】 对修改内容进行同步，再输入命令【git status】查看进度，然后使用命令【git commit -m “注释内容”】，主要作用是对修改的地方进行注释，方便别人查看。然后【git push】上传即可
 
-  - 输入【git init】创建本地仓库（结果是在当前目录会出现.git文件）,输入 git clone 你的github项目地址 （这一步是克隆项目到本地），然后对项目进行一些代码上的修改。
-
-  - 将修改之后的项目上传到自己github里
-
-  - 输入命令【 git add .】 对修改内容进行同步，再输入命令【git status】查看进度，然后使用命令【git commit -m “注释内容”】，主要作用是对修改的地方进行注释，方便别人查看。然后【git push】上传即可
+  ![image-20200612180133396](images/image-20200612180133396.png)
 
   - 点击github上面的“pull request”，再点击 "Create pull request"即可完成
 
+    ![image-20200612180433183](images/image-20200612180433183.png)
+
     
 
     
-  
+
     
-  
+
     
-  
+
     
-  
-    
-  
+
     
